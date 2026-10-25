@@ -2639,7 +2639,7 @@ local function performClick()
     getgenv().AutoClickShootSettings.LastClickTime = currentTime
 end
 
-local bearlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/xizennptgdrr032/ft5G07-Tf05Rd40-Fgt01D?8-u4Drpr4032H9kt-uuid-id/refs/heads/main/KagreinUI.lua"))()
+local bearlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/xizenyt/testing-script/refs/heads/main/KagreinUILibrary.lua"))()
 local Window = bearlib:MakeWindow({
     Title = "Raily Hub | Blox Fruits Farm",
     SubTitle = "by xizenn_",
